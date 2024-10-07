@@ -6,9 +6,9 @@ kunnen worden.
 Het scherm bevat:
 
 -   De tekstvakken *dividentTextBox, sharerTextBox* en
-    *resultTextBox***.**
+    *resultTextBox*.
 
--   De opdrachtknop *calculateButton***.** Bij het klikken op deze knop
+-   De opdrachtknop *calculateButton*. Bij het klikken op deze knop
     wordt de waarde uit *dividentTextBox* door *sharerTextBox* gedeeld
     en het resultaat getoond in *resultTextBox*. Als er fouten optreden,
     dan verschijnt een gepaste melding zoals in volgende
