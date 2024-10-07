@@ -1,4 +1,4 @@
-# Oefening 3: DelenTryCatch
+# Oefening 2: DelenTryCatch
 
 In dit voorbeeld wordt getoond hoe "onverwachte" fouten opgevangen
 kunnen worden.
