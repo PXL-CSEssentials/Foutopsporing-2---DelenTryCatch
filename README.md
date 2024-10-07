@@ -5,11 +5,11 @@ kunnen worden.
 
 Het scherm bevat:
 
--   De tekstvakken *dividentTextBox, sharerTextBox* en
+-   De tekstvakken *numberTextBox, dividerTextBox* en
     *resultTextBox*.
 
 -   De opdrachtknop *calculateButton*. Bij het klikken op deze knop
-    wordt de waarde uit *dividentTextBox* door *sharerTextBox* gedeeld
+    wordt de waarde uit *numberTextBox* door *dividerTextBox* gedeeld
     en het resultaat getoond in *resultTextBox*. Als er fouten optreden,
     dan verschijnt een gepaste melding zoals in volgende
     schermvoorbeelden wordt getoond. Vang de fouten zo specifiek
